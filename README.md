@@ -1,4 +1,4 @@
-* Live Site Link : https://summer-camp-417ab.web.app/
+Live Site Link : https://summer-camp-417ab.web.app/
 
 /**
 * This is a summer camp music school Website. The Website name is Summer Camp Music School.
