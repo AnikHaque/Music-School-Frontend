@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slider1 {
+    background-image: url('../public/slider1.jpg');
+}
+
+.slider2 {
+    background-image: url('../public/slider2.jpg');
+}
+
+.slider3 {
+    background-image: url('../public/slider3.jpg');
+}
+.art{
+    background-image: url('https://i.ibb.co/dKjWPmW/Class-1-770x440.jpg');
+}
+
+.swiper-button-prev {
+    display: hidden;
+}
+
+.drawer-side a.active{
+    color: white;
+    background-color: transparent;
+}
+.navbar a.active{
+    color: #6a9955;
+    font-weight: 600;
+    background-color: transparent;
+}
+
+/* [#6a9955] */
+/* #EFCF4F */

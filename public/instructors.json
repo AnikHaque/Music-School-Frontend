@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "instrument": "Piano Instructor",
+    "image": "https://i.ibb.co/L5n6z2y/team-3-370x370.jpg",
+    "category": "popular",
+    "email": "JohnSmith@gmail.com",
+    "numClasses": 1
+  },
+  {
+    "id": 2,
+    "name": "Emily Johnson",
+    "instrument": "Guitar Instructor",
+    "image": "https://i.ibb.co/gmvWbpY/w2.jpg",
+    "category": "popular",
+    "email": "EmilyJohnson@gmail.com",
+    "numClasses": 1
+  },
+  {
+    "id": 3,
+    "name": "Michael Davis",
+    "instrument": "Violin Instructor",
+    "image": "https://i.ibb.co/rvFfs2T/team-2-370x370.jpg",
+    "category": "popular",
+    "email": "Michael Davis@gmail.com",
+    "numClasses": 1
+  },
+  {
+    "id": 4,
+    "name": "Sarah Thompson",
+    "instrument": "Winds Guitar Fundamentals",
+    "image": "https://i.ibb.co/HpLn2q6/w1.jpg",
+    "category": "popular",
+    "email": "SarahThompson@gmail.com",
+    "numClasses": 1
+  },
+  {
+    "id": 5,
+    "name": "David Wilson",
+    "instrument": "Drums Instructor",
+    "image": "https://i.ibb.co/vx2PbM9/m1.jpg",
+    "category": "popular",
+    "email": "DavidWilson@gmail.com",
+    "numClasses": 1
+  },
+  {
+    "id": 6,
+    "name": "Jessica Miller",
+    "instrument": "Saxophone Instructor",
+    "image": "https://i.ibb.co/qny5vnm/testimonials-2-184x184.jpg",
+    "category": "popular",
+    "email": "JessicaMiller@gmail.com",
+    "numClasses": 1
+  },
+  {
+    "id": 7,
+    "name": "Melis Ara",
+    "instrument": "Vocal Training",
+    "image": "https://i.ibb.co/qgvnz5H/team-1-370x370.jpg",
+    "category": "common",
+    "email": "MelisAra@gmail.com",
+    "numClasses": 1
+  },
+  {
+    "id": 8,
+    "name": "Canat Hajra",
+    "instrument": "Guitar Fundamentals",
+    "image": "https://i.ibb.co/vmn42bz/testimonials-3-184x184.jpg",
+    "category": "common",
+    "email": "CanatHajra@gmail.com",
+    "numClasses": 1
+  }
+]
