@@ -1,3 +1,5 @@
+* Live Site Link : https://summer-camp-417ab.web.app/
+
 /**
 * This is a summer camp music school Website. The Website name is Summer Camp Music School.
 * 3 type of people use it. Student, Instructor and Admin. Different Dashboard Show different user
@@ -6,5 +8,4 @@
 * Admin can do users an admin or instructor they can also see all classes and manage by approved and delete
 * There is also A Dark mode toggle button in Navbar
 * React.js || MongoDB || node.js || express.js || Firebase || React different Library and framework 
-* Live Side Link : https://summer-camp-417ab.web.app/
 **/
