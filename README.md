@@ -1,4 +1,3 @@
-# b712-summer-camp-client-side-subhana0304
 /**
 * This is a summer camp music school Website. The Website name is Summer Camp Music School.
 * 3 type of people use it. Student, Instructor and Admin. Different Dashboard Show different user
