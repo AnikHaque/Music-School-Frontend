@@ -25,7 +25,7 @@
     "react-helmet": "^6.1.0",
     "react-hook-form": "^7.44.3",
     "react-icons": "^4.9.0",
-    "sweetalert2": "^11.7.11",
+    "sweetalert2": "^11.22.4",
     "swiper": "^9.3.2"
   },
   "devDependencies": {
